@@ -1,4 +1,4 @@
-# supalib ⚡
+# Supalib ⚡
 
 **supalib** is a lightweight, embedded-friendly C client library for [Supabase](https://supabase.com).
 Designed for IoT devices, embedded systems, and C applications requiring seamless integration with Supabase Authentication (GoTrue) and Database (PostgREST).
