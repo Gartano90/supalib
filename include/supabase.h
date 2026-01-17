@@ -10,7 +10,7 @@
 
 #include <stdbool.h>
 #include <curl/curl.h>
-#include <cjson/cJSON.h>
+#include "cJSON.h"
 
 /**
  * @struct SupabaseClient
